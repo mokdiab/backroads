@@ -10,8 +10,8 @@ export default function Footer() {
         childClassName="footer-icon"
       />
       <p className="copyright">
-        copyright &copy; Backroads travel tours company <span id="date"></span>{" "}
-        all rights reserved
+        copyright &copy; Mohamed Diab <span id="date"></span> all rights
+        reserved
       </p>
     </footer>
   );
